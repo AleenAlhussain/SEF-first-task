@@ -1,0 +1,33 @@
+body{
+    background-color: #A3FFD6;
+}
+div{
+    width: 400px;
+    background-color: #8576FF;
+    font-size: 18px;
+    color:#1C1678;
+}
+.btn_1{
+    width: 250px;
+    height: 50px;
+    background-color: #8576FF;
+    border: 0;
+    border-radius: 6px;
+    color: #1C1678;
+    font-size: 20px;
+}
+
+.social_media{
+    width: 300px;
+    border: 2px dotted #1C1678;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.btn_2{
+    background-color: #8576FF;
+    border: 0;
+    color: #1C1678;
+    font-size: 20px;
+}
